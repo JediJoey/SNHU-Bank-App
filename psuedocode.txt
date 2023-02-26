@@ -1,0 +1,6 @@
+Instantiate Balance Class
+Instantiate Variables to represent initial investement, monthly deposit, annual interest, and number of years.
+Output GUI Header
+Gather User input with validation loop for each input.
+Output year end earned interest report w/o additional monthly deposit.
+Output year end earned interest report with additional monthly deposit.
